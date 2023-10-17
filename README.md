@@ -6,6 +6,7 @@ _This is just a suggested template for the README of your project, feel free to 
 - Andrew Huntington
 - Aaryan Patel
 - Khalid Al Raisi
+- Peter Zhao
 
 ### Project Description
 Describe the goal of your project here.
